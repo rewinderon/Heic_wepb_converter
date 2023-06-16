@@ -1,4 +1,4 @@
-# rag&Drop heic+webp converter
+# Drag&Drop heic+webp converter
 
 ## This drag&drop converter converts .webp, .heic, .jfif 
 
